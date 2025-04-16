@@ -1,6 +1,6 @@
 var nomeColaborador = prompt("Olá, digite seu nome: ");
 while (!nomeColaborador || nomeColaborador.trim() === "") {
-    nomeColaborador = prompt("Por favor, digite um nome válido: ");
+    nomeColaborador = prompt("Por favor, digite um nome válido: "); 
 }
 
 var nomeVinho = prompt("Digite o nome do vinho: ");
